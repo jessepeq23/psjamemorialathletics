@@ -13,7 +13,7 @@
   
   .u-section-1 .u-image-1 {
     min-height: 643px;
-    background-image: url("images/IMG_0124_copy.JPG");
+    background-image: url("images/IMG_0124_copy\ Small.jpeg");
     background-position: 100% 0%;
   }
   
@@ -345,7 +345,7 @@
   .u-section-2 .u-image-1 {
     width: 180px;
     height: 180px;
-    background-image: url("images/Gutierrez_M.jpg");
+    background-image: url("images/Gutierrez_M\ Small.jpeg");
     background-position: 50% 50%;
     margin: 8px auto 0;
   }
@@ -380,7 +380,7 @@
     width: 180px;
     height: 180px;
     object-position: 50% 0%;
-    background-image: url("images/Barbosa_Gutierrez_Raquel.JPG");
+    background-image: url("images/Barbosa_Gutierrez_Raquel\ Small.jpeg");
     background-position: 50% 50%;
     margin: 8px auto 0;
   }
@@ -410,7 +410,7 @@
   .u-section-2 .u-image-3 {
     width: 180px;
     height: 180px;
-    background-image: url("images/Portillo_Estefania.JPG");
+    background-image: url("images/Portillo_Estefania\ Small.jpeg");
     background-position: 50% 26.14%;
     margin: 8px auto 0;
   }
@@ -440,7 +440,7 @@
   .u-section-2 .u-image-4 {
     width: 180px;
     height: 180px;
-    background-image: url("images/Herrera_Ramiro.jpg");
+    background-image: url("images/Herrera_Ramiro\ Small.jpeg");
     background-position: 50% 26.14%;
     margin: 8px auto 0;
   }
@@ -1392,7 +1392,7 @@
   }
   
   .u-section-5 .u-image-1 {
-    background-image: url("images/IMG_6088.JPG");
+    background-image: url("images/IMG_6088\ Small.jpeg");
     background-position: 50% 7.8%;
     min-height: 622px;
   }

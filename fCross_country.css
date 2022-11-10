@@ -13,7 +13,7 @@
   
   .u-section-1 .u-image-1 {
     min-height: 643px;
-    background-image: url("images/IMG_9253.JPG");
+    background-image: url("images/IMG_9253\ Small.jpeg");
     background-position: 100% 0%;
   }
   
@@ -345,7 +345,7 @@
   .u-section-2 .u-image-1 {
     width: 180px;
     height: 180px;
-    background-image: url("images/Lopez_Rudy.jpg");
+    background-image: url("images/Lopez_Rudy\ Small.jpeg");
     background-position: 50% 50%;
     margin: 8px auto 0;
   }
@@ -380,7 +380,7 @@
     width: 180px;
     height: 180px;
     object-position: 50% 0%;
-    background-image: url("images/Zarate_Macario.JPG");
+    background-image: url("images/Zarate_Macario\ Small.jpeg");
     background-position: 50% 50%;
     margin: 8px auto 0;
   }
@@ -410,7 +410,7 @@
   .u-section-2 .u-image-3 {
     width: 180px;
     height: 180px;
-    background-image: url("images/Puente_Galilea.JPG");
+    background-image: url("images/Puente_Galilea\ Small.jpeg");
     background-position: 50% 26.14%;
     margin: 8px auto 0;
   }
