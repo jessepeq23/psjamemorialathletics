@@ -13,7 +13,7 @@
   
   .u-section-1 .u-image-1 {
     min-height: 643px;
-    background-image: url("images/track_team.jpg");
+    background-image: url("images/track_team\ Small.jpeg");
     background-position: 100% 0%;
   }
   
@@ -960,7 +960,7 @@
   .u-section-2 .u-image-1 {
     width: 180px;
     height: 180px;
-    background-image: url("images/Cazares_Ernesto.JPG");
+    background-image: url("images/Cazares_Ernesto\ Small.jpeg");
     background-position: 50% 50%;
     margin: 8px auto 0;
   }
@@ -995,7 +995,7 @@
     width: 180px;
     height: 180px;
     object-position: 50% 0%;
-    background-image: url("images/Zarate_Macario.JPG");
+    background-image: url("images/Zarate_Macario\ Small.jpeg");
     background-position: 50% 50%;
     margin: 8px auto 0;
   }
@@ -1025,7 +1025,7 @@
   .u-section-2 .u-image-3 {
     width: 180px;
     height: 180px;
-    background-image: url("images/Gonzalez_Juan.JPG");
+    background-image: url("images/Gonzalez_Juan\ Small.jpeg");
     background-position: 50% 26.14%;
     margin: 8px auto 0;
   }
@@ -1055,7 +1055,7 @@
   .u-section-2 .u-image-4 {
     width: 180px;
     height: 180px;
-    background-image: url("images/Wheatfall_Kerry.jpg");
+    background-image: url("images/Wheatfall_Kerry\ Small.jpeg");
     background-position: 50% 26.14%;
     margin: 8px auto 0;
   }
@@ -1085,7 +1085,7 @@
   .u-section-2 .u-image-5 {
     width: 180px;
     height: 180px;
-    background-image: url("images/Lopez_Mark.JPG");
+    background-image: url("images/Lopez_Mark\ Small.jpeg");
     background-position: 50% 26.14%;
     margin: 8px auto 0;
   }
@@ -1115,7 +1115,7 @@
   .u-section-2 .u-image-6 {
     width: 180px;
     height: 180px;
-    background-image: url("images/Lopez_Rudy.jpg");
+    background-image: url("images/Lopez_Rudy\ Small.jpeg");
     background-position: 50% 26.14%;
     margin: 8px auto 0;
   }
@@ -1180,7 +1180,7 @@
     width: 180px;
     height: 180px;
     object-position: 50% 0%;
-    background-image: url("images/Gonzalez_Michael.JPG");
+    background-image: url("images/Gonzalez_Michael\ Small.jpeg");
     background-position: 50% 50%;
     margin: 8px auto 0;
   }
@@ -1210,7 +1210,7 @@
   .u-section-2 .u-image-9 {
     width: 180px;
     height: 180px;
-    background-image: url("images/Pena_Valeria.JPG");
+    background-image: url("images/Pena_Valeria\ Small.jpeg");
     background-position: 50% 26.14%;
     margin: 8px auto 0;
   }
@@ -1514,7 +1514,7 @@
   }
   
   .u-section-5 .u-image-1 {
-    background-image: url("images/IMG_5874.JPG");
+    background-image: url("images/IMG_5874\ Small.jpeg");
     background-position: 50% 7.8%;
     min-height: 622px;
   }

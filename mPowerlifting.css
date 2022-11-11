@@ -345,7 +345,7 @@
   .u-section-2 .u-image-1 {
     width: 180px;
     height: 180px;
-    background-image: url("images/Gonzalez_Omar.JPG");
+    background-image: url("images/Gonzalez_Omar\ Small.jpeg");
     background-position: 50% 50%;
     margin: 8px auto 0;
   }
@@ -380,7 +380,7 @@
     width: 180px;
     height: 180px;
     object-position: 50% 0%;
-    background-image: url("images/Garcia_Mateo.JPG");
+    background-image: url("images/Garcia_Mateo\ Small.jpeg");
     background-position: 50% 50%;
     margin: 8px auto 0;
   }

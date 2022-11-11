@@ -13,7 +13,7 @@
   
   .u-section-1 .u-image-1 {
     min-height: 643px;
-    background-image: url("images/SoftballvsMustangs.png");
+    background-image: url("images/SoftballvsMustangs\ Small.jpeg");
     background-position: 100% 0%;
   }
   
@@ -345,7 +345,7 @@
   .u-section-2 .u-image-1 {
     width: 180px;
     height: 180px;
-    background-image: url("images/Cazares_Cassandra.jpg");
+    background-image: url("images/Cazares_Cassandra\ Small.jpeg");
     background-position: 50% 50%;
     margin: 8px auto 0;
   }
@@ -380,7 +380,7 @@
     width: 180px;
     height: 180px;
     object-position: 50% 0%;
-    background-image: url("images/Moya_Adrian.JPG");
+    background-image: url("images/Moya_Adrian\ Small.jpeg");
     background-position: 50% 50%;
     margin: 8px auto 0;
   }
@@ -410,7 +410,7 @@
   .u-section-2 .u-image-3 {
     width: 180px;
     height: 180px;
-    background-image: url("images/Herrera_Ramiro.jpg");
+    background-image: url("images/Herrera_Ramiro\ Small.jpeg");
     background-position: 50% 50%;
     margin: 8px auto 0;
   }
@@ -440,7 +440,7 @@
   .u-section-2 .u-image-4 {
     width: 180px;
     height: 180px;
-    background-image: url("images/Silva_Becky.JPG");
+    background-image: url("images/Silva_Becky\ Small.jpeg");
     background-position: 50% 26.14%;
     margin: 8px auto 0;
   }
@@ -1391,7 +1391,7 @@
   }
   
   .u-section-5 .u-image-1 {
-    background-image: url("images/SoftballWinvsRaymondville.png");
+    background-image: url("images/SoftballWinvsRaymondville\ Small.jpeg");
     background-position: 50% 7.8%;
     min-height: 622px;
   }

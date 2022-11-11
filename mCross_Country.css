@@ -13,7 +13,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 643px;
-  background-image: url("images/IMG_3174.JPG");
+  background-image: url("images/IMG_3174\ Small.jpeg");
   background-position: 100% 0%;
 }
 
@@ -345,7 +345,7 @@
 .u-section-2 .u-image-1 {
   width: 180px;
   height: 180px;
-  background-image: url("images/Cazares_Ernesto.JPG");
+  background-image: url("images/Cazares_Ernesto\ Small.jpeg");
   background-position: 50% 50%;
   margin: 8px auto 0;
 }
@@ -380,7 +380,7 @@
   width: 180px;
   height: 180px;
   object-position: 50% 0%;
-  background-image: url("images/Prieto_Oscar.JPG");
+  background-image: url("images/Prieto_Oscar\ Small.jpeg");
   background-position: 50% 50%;
   margin: 8px auto 0;
 }
@@ -410,7 +410,7 @@
 .u-section-2 .u-image-3 {
   width: 180px;
   height: 180px;
-  background-image: url("images/Chavez_Arturo.JPG");
+  background-image: url("images/Chavez_Arturo\ Small.jpeg");
   background-position: 50% 26.14%;
   margin: 8px auto 0;
 }
@@ -1361,7 +1361,7 @@
 }
 
 .u-section-5 .u-image-1 {
-  background-image: url("images/IMG_9712_Original.jpg");
+  background-image: url("images/IMG_9712_Original\ Small.jpeg");
   background-position: 50% 7.8%;
   min-height: 622px;
 }
