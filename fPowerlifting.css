@@ -13,7 +13,7 @@
   
   .u-section-1 .u-image-1 {
     min-height: 643px;
-    background-image: url("images/FullSizeR.jpg");
+    background-image: url("images/FullSizeR\ Small.jpeg");
     background-position: 100% 0%;
   }
   
@@ -345,7 +345,7 @@
   .u-section-2 .u-image-1 {
     width: 180px;
     height: 180px;
-    background-image: url("images/Franklin_Alvarez_Clay.JPG");
+    background-image: url("images/Franklin_Alvarez_Clay\ Small.jpeg");
     background-position: 50% 50%;
     margin: 8px auto 0;
   }
@@ -1332,7 +1332,7 @@
   }
   
   .u-section-5 .u-image-1 {
-    background-image: url("images/IMG_4739[1].JPG");
+    background-image: url("images/IMG_4739[1]\ Small.jpeg");
     background-position: 50% 7.8%;
     min-height: 622px;
   }
