@@ -37574,7 +37574,6 @@ a.u-link.u-text-hover-grey-90:hover {
         
         
         .u-custom-color-2,
-        .u-custom-color-12,
         .u-body.u-custom-color-2,
         section.u-custom-color-2:before,
         .u-custom-color-2 > .u-container-layout:before,
@@ -37584,7 +37583,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-table-alt-custom-color-2 tr:nth-child(even)
         {
             color: #ffffff;
-             background-color: #21bd00;
+            background-color: #21bd00;
         }
 
         .u-button-style.u-custom-color-2,
