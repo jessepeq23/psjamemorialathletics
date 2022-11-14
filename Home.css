@@ -92,7 +92,7 @@
 }
 
 .u-section-2 .u-repeater-1 {
-  grid-template-columns: repeat(4, calc(25% - 15px));
+  grid-template-columns: repeat(calc(25% - 15px));
   grid-gap: 20px;
 }
 
