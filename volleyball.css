@@ -345,7 +345,7 @@
   .u-section-2 .u-image-1 {
     width: 180px;
     height: 180px;
-    background-image: url("images/IMG_1881.jpg");
+    background-image: url("images/Portillo_Estefania\ Small.jpeg");
     background-position: 50% 50%;
     margin: 8px auto 0;
   }
@@ -380,7 +380,7 @@
     width: 180px;
     height: 180px;
     object-position: 50% 0%;
-    background-image: url("images/IMG_0777_Original.jpg");
+    background-image: url("images/Barbosa_Gutierrez_Raquel\ Small.jpeg");
     background-position: 50% 50%;
     margin: 8px auto 0;
   }
@@ -410,7 +410,7 @@
   .u-section-2 .u-image-3 {
     width: 180px;
     height: 180px;
-    background-image: url("images/IMG_C2F24DAB85A9-1.jpeg");
+    background-image: url("images/Barbosa_Gutierrez_Raquel\ Small.jpeg");
     background-position: 50% 26.14%;
     margin: 8px auto 0;
   }
@@ -953,73 +953,74 @@
     background-image: none;
   }
   
-  .u-section-2 .u-container-layout-1 {
-    padding: 20px;
+  .u-section-4 .u-container-layout-1 {
+    padding: 30px;
   }
   
-  .u-section-2 .u-image-1 {
-    width: 180px;
-    height: 180px;
+  .u-section-4 .u-image-1 {
+    width: 72px;
+    height: 72px;
     background-image: url("images/Portillo_Estefania\ Small.jpeg");
     background-position: 50% 50%;
-    margin: 8px auto 0;
+    margin: 0 auto 0 0;
   }
   
-  .u-section-2 .u-text-2 {
+  .u-section-4 .u-text-2 {
+    font-style: italic;
+    margin: -72px 0 0 92px;
+  }
+  
+  .u-section-4 .u-text-3 {
     font-weight: 700;
-    font-size: 1.25rem;
-    margin: 20px auto 0;
+    font-size: 1.125rem;
+    margin: 20px 166px 0 92px;
   }
   
-  .u-section-2 .u-text-3 {
-    font-weight: 400;
-    text-transform: uppercase;
-    font-size: 1rem;
-    letter-spacing: 3px;
-    margin: 10px auto 0;
+  .u-section-4 .u-text-4 {
+    font-weight: 300;
+    font-size: 0.875rem;
+    margin: 13px 166px 0 92px;
   }
   
-  .u-section-2 .u-text-4 {
-    margin: 20px 0 0;
-  }
-  
-  .u-section-2 .u-list-item-2 {
+  .u-section-4 .u-list-item-2 {
     background-image: none;
   }
   
-  .u-section-2 .u-container-layout-2 {
-    padding: 20px;
+  .u-section-4 .u-container-layout-2 {
+    padding: 30px;
   }
   
-  .u-section-2 .u-image-2 {
-    width: 180px;
-    height: 180px;
-    object-position: 50% 0%;
-    background-image: url("images/Barbosa_Gutierrez_Raquel\ Small.jpeg");
+  .u-section-4 .u-image-2 {
+    width: 72px;
+    height: 72px;
+    background-image: url("images/leandra.JPG");
     background-position: 50% 50%;
-    margin: 8px auto 0;
+    margin: 0 auto 0 0;
   }
   
-  .u-section-2 .u-text-5 {
+  .u-section-4 .u-text-5 {
+    font-style: italic;
+    margin: -72px 0 0 92px;
+  }
+  
+  .u-section-4 .u-text-6 {
     font-weight: 700;
-    font-size: 1.25rem;
-    margin: 20px auto 0;
+    font-size: 1.125rem;
+    margin: 20px 166px 0 92px;
   }
   
-  .u-section-2 .u-text-6 {
-    font-weight: 400;
-    text-transform: uppercase;
-    font-size: 1rem;
-    letter-spacing: 3px;
-    margin: 10px auto 0;
+  .u-section-4 .u-text-7 {
+    font-weight: 300;
+    font-size: 0.875rem;
+    margin: 13px 166px 0 92px;
   }
   
-  .u-section-2 .u-text-7 {
-    margin: 20px 0 0;
+  .u-section-4 .u-list-item-3 {
+    background-image: none;
   }
   
-  .u-section-2 .u-container-layout-3 {
-    padding: 20px;
+  .u-section-4 .u-container-layout-3 {
+    padding: 30px;
   }
   
   .u-section-2 .u-image-3 {
