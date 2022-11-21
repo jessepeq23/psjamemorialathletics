@@ -40,7 +40,7 @@
 }
 
 .u-section-2 .u-repeater-1 {
-  grid-template-columns: repeat(4, calc(25% - 25.5px));
+  grid-template-columns: repeat(3, calc(25% - 9px));
   grid-gap: 34px;
 }
 
